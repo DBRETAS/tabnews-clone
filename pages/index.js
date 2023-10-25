@@ -1,6 +1,6 @@
 function home(){
-    return <h1>Todo dia mais perto do meu sonho, 
-            eu te amo e obrigado por me apoiar ❤️❤️</h1>
+    return <h1> Nao me xinga pfv eu comprei a glock zed
+    </h1>
 }
 
 export default home;
